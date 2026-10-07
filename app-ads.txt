@@ -166,3 +166,4 @@ video.unrulymedia.com, 290726769, RESELLER
 video.unrulymedia.com, 905340553, RESELLER
 rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
+facebook.com, 113742056538514, DIRECT, c3e20eee31780d88
